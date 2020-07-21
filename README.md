@@ -8,4 +8,4 @@ In the client directory, you can run:
 
 In the server directory, you can run:
 
-### `nodemon intex.js`
+### `nodemon index.js`
